@@ -14,7 +14,7 @@ import VueParticles from 'vue-particles'
 Vue.use(VueParticles)
 // Vue.use(VueAwesomeSwiper)
 
-Vue.config.productionTip = false // 线上改为true
+Vue.config.productionTip = true // 线上改为true
 Vue.config.debug = true // 开启debug模式
 
 /* eslint-disable no-new */
