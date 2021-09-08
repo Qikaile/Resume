@@ -9,7 +9,7 @@
   	    <dl>
   	      <dt>Contact By Email</dt>
   	      <dd>Mail1: <a href="mailto:admin@qikaile.tk">admin@qikaile.tk</a></dd>
-  	      <dd>Mail2: <a href="mailto:15205626407@qq.com">15205626407@qq.com</a></dd>
+  	      <dd>Mail2: <a href="mailto:qikaile@outlook.ie">qikaile@outlook.ie</a></dd>
   	    </dl>
   	  </div>
   	  <p v-text="desc"></p>
@@ -23,7 +23,7 @@ export default {
   data () {
     return {
     	title: '联系我',
-    	desc: '© 2020-2021 Preface . All rights reserved | Design by TJYS.'
+    	desc: '2020 - 2021© Reach - TJYS'
     }
   }
 }
