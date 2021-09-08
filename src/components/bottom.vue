@@ -5,7 +5,7 @@
   	  <h1 class="title">{{title}}</h1>
   	  <span class="border"></span>
   	  <div class="content">
-  	    <img src="../common/images/wechat.png">
+  	    <img src="../common/images/wechat.png" width="216" height="216" alt="微信">
   	    <dl>
   	      <dt>Contact By Email</dt>
   	      <dd>Mail1: <a href="mailto:admin@qikaile.tk">admin@qikaile.tk</a></dd>

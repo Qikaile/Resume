@@ -5,10 +5,10 @@
       <h1 class="title">{{title}}</h1>
       <span class="border"></span>
       <ul>
-        <li><a href="https://music.qikaile.tk/" class="music"><img src="../common/images/portfolio-1.jpg" alt="项目1"></a></li>
-        <li><a href="https://weather.qikaile.tk/" class="weather"><img src="../common/images/portfolio-2.jpg" alt="项目2"></a></li>
-        <li><a href="https://blog.qikaile.tk/" class="blog"><img src="../common/images/portfolio-3.jpg" alt="项目3"></a></li>
-        <li><a href="https://tjys.js.org/" class="notes"><img src="../common/images/portfolio-4.jpg" alt="项目4"></a></li>
+        <li><a href="https://music.qikaile.tk/" class="music"><img src="../common/images/portfolio-1.jpg" width="240" height="210" alt="项目1"></a></li>
+        <li><a href="https://weather.qikaile.tk/" class="weather"><img src="../common/images/portfolio-2.jpg" width="240" height="210" alt="项目2"></a></li>
+        <li><a href="https://blog.qikaile.tk/" class="blog"><img src="../common/images/portfolio-3.jpg" width="240" height="210" alt="项目3"></a></li>
+        <li><a href="https://tjys.js.org/" class="notes"><img src="../common/images/portfolio-4.jpg" width="240" height="210" alt="项目4"></a></li>
         <div class="clearfix"></div>
       </ul>
     </div>
