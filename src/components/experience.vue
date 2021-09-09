@@ -41,7 +41,7 @@
   	  	<li>
   	  		<div class="content_left tx_right">
   	  		  <span class="s2"></span>
-  	  		  <h4>2017 - 2018 </h4>
+  	  		  <h4>2019 - 2022 </h4>
   	  		</div>
   	  		<div class="content_right tx_left">
   	  		  <h4>安徽工业大学</h4>
